@@ -22,7 +22,7 @@ else:
 from translation import Translation
 
 
-async def progress_for_pyrogram(
+async def progrezz_for_pyrogram(
     current,
     total,
     ud_type,
@@ -43,8 +43,8 @@ async def progress_for_pyrogram(
         estimated_total_time = TimeFormatter(milliseconds=estimated_total_time)
 
         progress ="\n📥Percentage: {2}%\n\n[{0}{1}]\n\n".format(
-            ''.join(["v " for i in range(math.floor(percentage / 5))]),
-            ''.join(["f " for i in range(20 - math.floor(percentage / 5))]),
+            ''.join(["f" for i in range(math.floor(percentage / 5))]),
+            ''.join(["v" for i in range(20 - math.floor(percentage / 5))]),
           round(percentage, 2))
 
         tmp = progress + "\n📥 <b>Downloaded</b>: `{0}` \n\n 📁 <b>Total Size</b>: `{1}`\n\n🚀 <b>Speed</b>: `{2}/s`\n\n⏳ <b>Time Left</b>: `{3}`\n".format(
