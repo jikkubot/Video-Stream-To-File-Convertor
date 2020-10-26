@@ -24,5 +24,6 @@ start - Check if the Bot is Online!
 help - How to use this Bot?
 upgrade - Upgrade your status
 converttovideo - Convert to Streamable Video
+convert2file - Convert to Document File
 ```
 
