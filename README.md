@@ -1,4 +1,4 @@
-## Telegram File To Video Converter Bot With Permanent Thumbnail Support 
+## Telegram File To Video Converter Bot With Permanent Thumbnails Support 
 ---
 
 An Open Source Telegram Converter Bot Based On [Anydl](https://telegram.dog/spechide)
