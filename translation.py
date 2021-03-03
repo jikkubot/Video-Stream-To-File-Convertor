@@ -4,7 +4,7 @@ Bot By : @mAi_BotS
     """
     ABS_TEXT = " Please don't be selfish."
     BANNED_USER_TEXT = "you are banned"
-    UPGRADE_TEXT = "No upgrade plan Yet Contact. @No_OnE_Kn0wS_Me"
+    UPGRADE_TEXT = "No upgrade plan Yet Contact. @JikkuBarca"
     DOWNLOAD_START = "<b>trying to download</b>"
     UPLOAD_START = "<b>trying to upload</b>"
     RCHD_BOT_API_LIMIT = "<b>size greater than maximum allowed size (50MB). Neverthless, trying to upload.</b>"
